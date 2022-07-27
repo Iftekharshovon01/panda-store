@@ -99,8 +99,8 @@ body {
     border-radius: 5px;
 }
 .text i{
-            color: #FFFFFF;
-            padding-left:5px;
+    color: #FFFFFF;
+    padding-left:5px;
 
 }
 .image{
@@ -108,4 +108,19 @@ body {
 }
 img{
     width: 100%;
+}
+.categories{
+    justify-content: space-between;
+    padding: 50px 0 50px 0;
+}
+.card-class{
+    border-radius: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 54px;
+    color: #FFFFFF;
+}
+.image-card img{
+width: 80%;
 }
